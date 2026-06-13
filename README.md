@@ -3,15 +3,9 @@
 Supervisor and main author V. A. Parhomenko, co-author I. A. Epishin. Сopyright © V. A. Parhomenko, I. A. Epishin.
 
 # General Description
-Программа представляет собой экспериментальный стенд и API. Это программа прокторинга, которая отслеживает данные с веб-камеры, а именно - направление взляда и положенияя головы. В программе имеется аналитический алгоритм на основе этих 2 признаков, а также финальное решение принимает обученная на наших данных модель XGBoost. В данном репозитории представлены 4 версии программы, а также апи версия и тестирование программы. Также присутствуют некоторые дополнительные файлы, по типу диаграмм классов, результатов тестирований и тд.
+The program consists of an experimental setup and an API. It is a proctoring program that tracks webcam data, specifically gaze direction and head position. The program includes an analytical algorithm based on these two features, and the final decision is made by an XGBoost model trained on our data. This repository contains four versions of the program, as well as an API version and a test version. Some additional files, such as class diagrams, test results, etc., are also available.
 
-Актуальная версия экспериментального стенда находится по пути GazeTracking-master/main_with_head_tracking_model.
-Актуальная версия api находится по пути GazeTracking-master/proctoring_api.
-Также в директории находится обученная модель, это файлы GazeTracking-master/best_model.pkl, GazeTracking-master/feature_names.pkl и GazeTracking-master/preprocessor.pkl.
-Тесты программы находятся в директории GazeTracking-master/tests.
-conftest - конфигурация тестов, test_behavior_analyzer, test_data_logger, test_gaze_tracker, test_gui_interface, test_head_pose_tracker, test_model_referee, test_session_recorder - модульные тесты.
-test_load - нагрузочные тесты системы
-test_proctoring_api - нагрузочные тесты API
+The current version of the experimental setup is located at GazeTracking-master/main_with_head_tracking_model. The current version of the API is located at GazeTracking-master/proctoring_api. The trained model is also located in this directory: GazeTracking-master/best_model.pkl, GazeTracking-master/feature_names.pkl, and GazeTracking-master/preprocessor.pkl. The program tests are located in the GazeTracking-master/tests directory. conftest - test configuration, test_behavior_analyzer, test_data_logger, test_gaze_tracker, test_gui_interface, test_head_pose_tracker, test_model_referee, test_session_recorder - unit tests, test_load - system load tests, test_proctoring_api - API load tests.
 
 # Warranty
 The contributors provide no warranty for the use of this software. Use it at your own risk.
