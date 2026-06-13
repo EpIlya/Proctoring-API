@@ -1,0 +1,6 @@
+opencv-python==4.8.1.78
+dlib==19.24.2
+numpy==1.24.3
+pytest==8.4.1
+pytest-mock==3.14.1
+Pillow>=9.0.0

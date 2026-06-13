@@ -1,0 +1,75 @@
+[
+  {
+    "timestamp": "2026-05-17 03:52:16",
+    "data": {
+      "participant_number": "soak_u8_i0",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  }
+]
+  {
+    "timestamp": "2026-05-17 03:51:55",
+    "data": {
+      "participant_number": "stress_s1_u6",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 03:51:56",
+    "data": {
+      "participant_number": "stress_s1_u7",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 03:51:58",
+    "data": {
+      "participant_number": "stress_s1_u4",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 03:52:00",
+    "data": {
+      "participant_number": "soak_u0_i0",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 03:52:02",
+    "data": {
+      "participant_number": "soak_u1_i0",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 03:52:08",
+    "data": {
+      "participant_number": "soak_u2_i0",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 03:52:08",
+    "data": {
+      "participant_number": "soak_u4_i0",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 03:52:16",
+    "data": {
+      "participant_number": "soak_u5_i0",
+      "quiz_id": "quiz-001",
+      "message": "Сессия создана (API)"
+    }
+  }
+]
